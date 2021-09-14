@@ -7,5 +7,5 @@ CTRL + Shift + (+) --> Ekranı büyüt,  (Eclipse)
 Ctrl + space -->Auto Complete, (Eclipse)
 Ctrl + Shift + C --> Otomatik yorum satırı haline getirmece, tekrar basılırsa iptal eder.
 Class üstüne gelip F2'ye basarsanız --> Rename
-
+Ctrl + Shift + S --> Tüm classları kaydetme
 
